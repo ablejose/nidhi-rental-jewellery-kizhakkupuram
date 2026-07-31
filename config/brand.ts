@@ -28,7 +28,13 @@ export const BRAND: BrandConfig = {
   openingHours: "Mon–Sat: 9:30 AM – 8:00 PM · Sunday: 10:00 AM – 7:00 PM",
   instagram: "",
   facebook: "",
-  seo: { title: "Nidhi Rental Jewellery | Gold & Jewellery in Attingal, Kerala", description: "Nidhi Rental Jewellery is Attingal's trusted destination for gold, diamond and silver jewellery. Serving Attingal and surrounding areas in Kerala with exquisite", keywords: ["Nidhi Rental Jewellery", "jewellery Attingal", "gold Attingal Kerala", "jewellery store Kerala"], canonical: "https://nidhi-rental-jewellery-kizhakkupuram-project-z3.vercel.app", ogImage: "https://res.cloudinary.com/sqsrrir4/image/upload/v1785497928/attingal/nidhi-rental-jewellery-kizhakkupuram/store1.webp" },
+  seo: {
+    title: "Nidhi Rental Jewellery | Gold & Jewellery in Attingal, Kerala",
+    description: "Nidhi Rental Jewellery is Attingal's trusted destination for gold, diamond and silver jewellery. Serving Attingal and surrounding areas in Kerala with exquisite",
+    keywords: ["Nidhi Rental Jewellery", "jewellery Attingal", "gold jewellery Attingal", "gold Attingal Kerala", "jewellery store Kerala"],
+    canonical: "https://nidhi-rental-jewellery-kizhakkupuram-project-z3.vercel.app",
+    ogImage: "https://res.cloudinary.com/sqsrrir4/image/upload/v1785497928/attingal/nidhi-rental-jewellery-kizhakkupuram/store1.webp",
+  },
   faq: [],
   whatsappMessage: "Hello Nidhi Rental Jewellery, I'd like to know more about your jewellery collections.",
 };
